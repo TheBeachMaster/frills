@@ -1,2 +1,3 @@
 # frills
-Cool Shit done with Notepad :sunglasses:  
+
+Just a bunch of light-weight Awesome shit :awesome: 
